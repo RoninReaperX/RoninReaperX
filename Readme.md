@@ -2,33 +2,41 @@
 
 # ⚔️ RONINREAPERX ⚔️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Code.+Power.+Discipline.;Kaiju+No.8+Energy+🔥;Future+Cyber+Warrior;Building+The+Impossible" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Desarrollador+en+constante+evolución.;Código,+disciplina+y+visión.;Kaiju+No.8+Energy+🔥;Construyendo+proyectos+sin+límites." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=220&section=header&text=RoninReaperX&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=230&section=header&text=RoninReaperX&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
 ---
 
-# 👁️ SYSTEM INFO
+# 👁️ PERFIL
 
 ```yaml
-Name: Abdiel
+Nombre: Abdiel
 Alias: RoninReaperX
-Role: Student & Developer
+Rol: Estudiante & Developer
 
-Specialties:
-  - Web Development
-  - Cybersecurity
-  - Artificial Intelligence
+Especialidades:
+  - Desarrollo Web
+  - Inteligencia Artificial
+  - Ciberseguridad
 
-Current Status: ONLINE ⚡
-Mindset: "Discipline over excuses."
+Lenguajes Favoritos:
+  - JavaScript
+  - Python
+  - PHP
+
+Mentalidad:
+  "La disciplina siempre supera al talento."
+
+Estado:
+  ONLINE ⚡
 ```
 
 ---
 
-# ⚡ TECH ARSENAL
+# ⚡ STACK TECNOLÓGICO
 
 <div align="center">
 
@@ -38,19 +46,35 @@ Mindset: "Discipline over excuses."
 
 ---
 
-# 🚀 CURRENT MISSION
+# 🚀 OBJETIVOS ACTUALES
 
 ```txt
-⚔️ Master Fullstack Development
-🛡️ Learn Advanced Cybersecurity
-🔥 Create Powerful Digital Projects
-🌌 Build Futuristic Interfaces
-💀 Keep evolving every single day
+⚔️ Mejorar como Fullstack Developer
+🛡️ Aprender hacking ético y ciberseguridad
+🔥 Crear proyectos innovadores
+🌌 Diseñar interfaces futuristas
+💀 Convertir ideas en proyectos reales
 ```
 
 ---
 
-# 📊 GITHUB STATS
+# 🧠 ACTUALMENTE APRENDIENDO
+
+<div align="center">
+
+| Tecnología | Nivel |
+|---|---|
+| JavaScript | ██████████ 90% |
+| React | ████████░░ 80% |
+| Node.js | ███████░░░ 70% |
+| Python | ███████░░░ 75% |
+| Ciberseguridad | █████░░░░░ 50% |
+
+</div>
+
+---
+
+# 📊 ESTADÍSTICAS DE GITHUB
 
 <div align="center">
 
@@ -64,34 +88,46 @@ Mindset: "Discipline over excuses."
 
 ---
 
-# 🧩 FEATURED PROJECTS
+# 🧩 PROYECTOS DESTACADOS
 
 <div align="center">
 
-| PROJECT | DESCRIPTION |
+| 🚀 Proyecto | 📖 Descripción |
 |---|---|
 | 🌍 Tu Ruta | Plataforma turística binacional |
-| 🚀 Frontera Viva | Proyecto innovador web |
-| ⚡ MCP + Claude | Integraciones inteligentes |
+| ⚡ Frontera Viva | Sistema web innovador |
+| 🤖 MCP + Claude | Integraciones inteligentes |
 | 🛡️ Cyber Tools | Futuras herramientas de seguridad |
 
 </div>
 
 ---
 
-# 🎧 CURRENT VIBES
+# 🎮 INTERESES
 
 ```txt
-🎵 Anime OSTs
-🎵 Phonk
-🎵 Cyberpunk Beats
-🎵 Epic Instrumentals
-🎵 Kaiju No.8 Openings
+🎌 Anime
+💻 Programación
+🎮 Gaming
+🛡️ Ciberseguridad
+🌌 Tecnología futurista
+🎧 Música Phonk
+🔥 Kaiju No.8
 ```
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🎧 ESCUCHANDO ACTUALMENTE
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
+
+</div>
+
+---
+
+# 🌐 REDES
 
 <div align="center">
 
@@ -107,17 +143,17 @@ Mindset: "Discipline over excuses."
 
 ---
 
-# 🗡️ QUOTE
+# 🗡️ FRASE
 
 <div align="center">
 
-> *"A warrior is forged through discipline, not comfort."*
+> *“Los límites solo existen para quienes dejan de avanzar.”*
 
 </div>
 
 ---
 
-# 👁️ VISITOR COUNT
+# 👁️ CONTADOR DE VISITAS
 
 <div align="center">
 
@@ -127,17 +163,38 @@ Mindset: "Discipline over excuses."
 
 ---
 
-# ⚔️ TERMINAL STATUS
+# ⚔️ ESTADO DEL SISTEMA
 
 ```bash
-> Initializing RoninReaperX.exe
+> Inicializando RoninReaperX.exe
 
 [████████████████████] 100%
 
-STATUS: READY
-POWER LEVEL: MAXIMUM
-MODE: CODING
+STATUS  : ONLINE
+MODE    : CODING
+POWER   : MAXIMUM
+FOCUS   : ACTIVATED
 ```
+
+---
+
+# 🐍 CONTRIBUCIONES
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ☄️ ACTIVIDAD
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoninReaperX&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -145,6 +202,6 @@ MODE: CODING
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=120&section=footer"/>
 
-# ⚔️ RoninReaperX — NO FEAR. JUST CODE.
+# ⚔️ RoninReaperX — SIN MIEDO. SOLO CÓDIGO.
 
 </div>
