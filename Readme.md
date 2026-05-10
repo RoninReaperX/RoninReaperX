@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ RONINREAPERX ⚔️
+# ⚔️ RONIN REAPER X ⚔️
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Desarrollador+en+constante+evolución.;Código,+disciplina+y+visión.;Kaiju+No.8+Energy+🔥;Construyendo+proyectos+sin+límites." />
 
@@ -139,9 +139,11 @@ Estado:
 <img src="https://img.shields.io/badge/Instagram-@abdiel04__m-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://wa.me/50763702692">
+<img src="https://img.shields.io/badge/WhatsApp-+507%2063702692-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
----
+</div>
 
 # 🗡️ FRASE
 
